@@ -7,3 +7,6 @@
 [submodule "cif-smrt"]
 	path = cif-smrt
 	url = git@github.com:collectiveintel/cif-smrt.git
+[submodule "libcif"]
+	path = libcif
+	url = git@github.com:collectiveintel/libcif.git
